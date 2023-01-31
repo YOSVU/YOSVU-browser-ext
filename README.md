@@ -1,2 +1,3 @@
-# YOSVU-browser-ext
-浏览器插件
+# browser plugin
+
+> 设计中...
