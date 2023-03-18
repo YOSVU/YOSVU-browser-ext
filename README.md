@@ -1,5 +1,11 @@
 # browser plugin
 
+YOSVU 平台浏览器插件
+
+Feature:
+
+- [ ] 浏览器主页
+
 > 设计中...
 
  ---

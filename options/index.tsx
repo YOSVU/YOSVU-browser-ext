@@ -3,7 +3,7 @@ function Indexoptions() {
   return (
     <div>
       <p>
-        test
+        YOSVU
       </p>
     </div>
   )
